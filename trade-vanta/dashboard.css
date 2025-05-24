@@ -1,0 +1,21 @@
+/* Dashboard styles */
+.user-info {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  color: #fff;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.chart-section {
+  margin-bottom: 40px;
+}
+
+.wallet-info {
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+}
